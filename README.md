@@ -2,6 +2,9 @@
 
 Example Python script to extract data from multiple excel files and displaying it using NumPy and matplotlib.pyplot
 
+Usage:<br>
+`pip3 install -r requirements.txt`<br>
+`python3 __main__.py`
 
 ### Libraries used
 
